@@ -10,7 +10,8 @@
 
 <a href="https://github.com/Apocalyps2001" target="_blank"><img src="https://avatars.githubusercontent.com/u/82934936?v=4" width="65" height="65"></a></br>
 <a href="https://github.com/1thoughtmedia" target="_blank"><img src="https://avatars.githubusercontent.com/u/83051283?v=4" width="50" height="50"></a>
-<a href="https://github.com/Marivanna2000" target="_blank"><img src="https://avatars.githubusercontent.com/u/35609092?v=4" width="50" height="50"></a></br>
+<a href="https://github.com/Marivanna2000" target="_blank"><img src="https://avatars.githubusercontent.com/u/35609092?v=4" width="50" height="50"></a>
+<a href="https://github.com/safaakdag" target="_blank"><img src="https://avatars.githubusercontent.com/u/22279986?v=4" width="50" height="50"></a></br>
 <a href="https://github.com/zerenity23" target="_blank"><img src="https://avatars.githubusercontent.com/u/76807999?v=4" width="35" height="35"></a>
 <a href="https://github.com/mateo787" target="_blank"><img src="https://avatars.githubusercontent.com/u/70239893?v=4" width="35" height="35"></a>
 <a href="https://github.com/Cosentino108" target="_blank"><img src="https://avatars.githubusercontent.com/u/81426885?v=4" width="35" height="35"></a>
@@ -32,6 +33,8 @@
 <a href="https://github.com/WitchTokTheMusical" target="_blank"><img src="https://avatars.githubusercontent.com/u/88294847?v=4" width="35" height="35"></a>
 <a href="https://github.com/obunga808" target="_blank"><img src="https://avatars.githubusercontent.com/u/89166157?v=4" width="35" height="35"></a>
 <a href="https://github.com/MagicGloves2115" target="_blank"><img src="https://avatars.githubusercontent.com/u/89193607?v=4" width="35" height="35"></a>
+<a href="https://github.com/ducnho2009" target="_blank"><img src="https://avatars.githubusercontent.com/u/89725933?v=4" width="35" height="35"></a>
+
 
 # VIDEO FOR BEGINNERS - Windows aviable
 If you need the video tutorial or private assistance contact me at the email [alessandrogreco@inventati.org](mailto:alessandrogreco@inventati.org)
