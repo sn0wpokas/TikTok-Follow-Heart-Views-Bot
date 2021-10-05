@@ -149,7 +149,7 @@ def loop6():
 
 print("Author: https://github.com/NoNameoN-A")
 
-vidUrl = "https://www.tiktok.com/@github_nonameon/video/6898692248968400130" #Change it
+vidUrl = "https://www.tiktok.com/@vulgo_snowzin/video/6959251595120971013?lang=pt-BR&is_copy_url=1&is_from_webapp=v1" #Change it
 
 bot = int(input("What do you want to do?\n1 - Auto views(500)\n2 - Auto hearts\n3 - Auto (FIRST) comments heart\n4 - Auto followers\n5 - Auto Share\n6 - Simple reload\n"))
 i = 0
